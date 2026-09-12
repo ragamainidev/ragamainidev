@@ -1,11 +1,16 @@
 # Raghav Maini
 
-I'm a software engineer and builder based in New York. I studied Computer Science and Business at the University of Michigan and have worked across cloud infrastructure, startups, and applied AI.
+I'm a software engineer in New York. I write about applied AI and agent design. My background spans cloud infrastructure and startups; I studied Computer Science and Business at the University of Michigan.
 
-I'm interested in ambiguous technical and business problems, and in building products that last.
+[Personal site and writing](https://raghavmaini.com/)
 
-[More about me](https://about.me/raghavmaini) · [LinkedIn](https://www.linkedin.com/in/raghav-maini-74232a166)
+## Selected writing
 
-## Writing
+- [Your AI should be a difficult customer](https://raghavmaini.com/writing/why-im-more-optimistic-about-ai/) — Shopping agents, seller incentives, and how a sales pitch can become a preference the agent thinks you expressed.
+- [Designing AI agents for decisions that keep changing](https://raghavmaini.com/writing/designing-ai-agents-for-decisions/) — Evidence, decision state, and the boundaries around an agent's research.
 
-[Designing AI agents for decisions that keep changing](https://ragamaini.substack.com/p/designing-ai-agents-for-decisions) — A case study in durable state, changing evidence, tool authorization, and research budgets.
+## Personal work
+
+[Paddock](https://github.com/ragamainidev/paddock-ai) is a personal project exploring how an agent can investigate salvage-car rebuilds while keeping evidence, costs and decision rules explicit.
+
+[Substack](https://ragamaini.substack.com/) · [About.me](https://about.me/raghavmaini) · [LinkedIn](https://www.linkedin.com/in/raghav-maini-74232a166)
