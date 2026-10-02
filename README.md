@@ -7,7 +7,7 @@ I'm a software engineer in New York. I write about applied AI and agent design. 
 ## Selected writing
 
 - [Your AI should be a difficult customer](https://raghavmaini.com/writing/why-im-more-optimistic-about-ai/) — Shopping agents, seller incentives, and how a sales pitch can become a preference the agent thinks you expressed.
-- [Designing AI agents for decisions that keep changing](https://raghavmaini.com/writing/designing-ai-agents-for-decisions/) — Evidence, decision state, and the boundaries around an agent's research.
+- [When new evidence should change an agent’s decision](https://raghavmaini.com/writing/designing-ai-agents-for-decisions/) — Selective revision, evidence dependencies, and what a changed premise leaves intact.
 
 ## Personal work
 
